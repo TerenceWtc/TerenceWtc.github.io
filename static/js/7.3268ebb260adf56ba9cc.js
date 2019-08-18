@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"5k/d":function(t,i,s){"use strict";s.r(i);var e=s("JFUb"),n=Object(e.a)(null,function(){this.$createElement;this._self._c;return this._m(0)},[function(){var t=this.$createElement,i=this._self._c||t;return i("div",[i("h3",[this._v("introduction page")]),this._v(" "),i("span",[this._v("Welcome to visit my github!")]),i("br"),this._v(" "),i("span",[this._v("This is a single-page application built by Vue.js")])])}],!1,null,null,null);i.default=n.exports}}]);
-//# sourceMappingURL=7.3268ebb260adf56ba9cc.js.map
